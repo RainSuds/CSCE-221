@@ -1,0 +1,49 @@
+{
+    "tests":[
+        {
+            "name": "compiles",
+            "cmds": [
+                "make -C tests RTEST_SRC_DIR=../../submission build/answer_1"
+            ],
+            "points": 3,
+            "time_limit": 10000,
+            "long_name": "Test 0 - compiles"
+        },
+        {
+            "name":"correct_traversal",
+            "cmds": [
+                "make -C tests RTEST_SRC_DIR=../../submission run/correct_traversal"
+            ],
+            "points": 4,
+            "time_limit": 10000,
+            "long_name": "Test 1 - correctly_traverses_graph"
+        },
+        {
+            "name":"answer_1",
+            "cmds": [
+                "make -C tests RTEST_SRC_DIR=../../submission run/answer_1"
+            ],
+            "points": 3,
+            "time_limit": 10000,
+            "long_name": "Test 2 - answer_1"
+        },
+        {
+            "name":"answer_2",
+            "cmds": [
+                "make -C tests RTEST_SRC_DIR=../../submission run/answer_2"
+            ],
+            "points": 3,
+            "time_limit": 10000,
+            "long_name": "Test 3 - answer_2"
+        },
+        {
+            "name":"answer_3",
+            "cmds": [
+                "make -C tests RTEST_SRC_DIR=../../submission run/answer_3"
+            ],
+            "points": 3,
+            "time_limit": 10000,
+            "long_name": "Test 4 - answer_3"
+        }
+    ]
+}

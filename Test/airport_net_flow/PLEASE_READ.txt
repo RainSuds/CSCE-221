@@ -1,0 +1,16 @@
+There are a couple things that should be discussed, but the most important thing is make commands.
+
+Commands for running locally:
+ make -C tests run-all           - Run all tests (stops when a test fails)
+ make -C tests run-all -k        - Run all tests (runs all tests, even if some fail)
+ make -C tests run/<test_name>   - Run a specific test_name
+    * Replace <test_name> with the name of the test case in the tests/tests folder
+      without the .cpp
+
+Pointer class:
+    You may notice the Pointer class in the starter code. It is just a way that we can check how you
+    are using the pointers and how you are navigating the array. It works the same as a pointer. For 
+    example, Pointer<int> is the same thing as int*, and Pointer<double> is the same as double*. You 
+    can perform the exact same operations you would on a pointer using the Pointer object.
+
+TL;DR There may be strange types, but they are what they sound like.

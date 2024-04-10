@@ -1,0 +1,40 @@
+{
+    "tests":[
+        {
+            "name": "compiles",
+            "cmds": [
+                "make -C tests RTEST_SRC_DIR=../../submission build/answer"
+            ],
+            "points": 4,
+            "time_limit": 10000,
+            "long_name": "Test 0 - compiles"
+        },
+        {
+            "name":"iterates",
+            "cmds": [
+                "make -C tests RTEST_SRC_DIR=../../submission run/iterates"
+            ],
+            "points": 4,
+            "time_limit": 10000,
+            "long_name": "Test 1 - correctly_iterates_array"
+        },
+        {
+            "name":"memory_management",
+            "cmds": [
+                "make -C tests RTEST_SRC_DIR=../../submission run/memory_management"
+            ],
+            "points": 4,
+            "time_limit": 10000,
+            "long_name": "Test 2 - memory_properly_managed"
+        },
+        {
+            "name":"answer",
+            "cmds": [
+                "make -C tests RTEST_SRC_DIR=../../submission run/answer"
+            ],
+            "points": 4,
+            "time_limit": 10000,
+            "long_name": "Test 4 - correct_answer"
+        }
+    ]
+}

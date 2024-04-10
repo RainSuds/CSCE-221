@@ -1,0 +1,49 @@
+{
+    "tests":[
+        {
+            "name": "compiles",
+            "cmds": [
+                "make -C tests RTEST_SRC_DIR=../../submission build/answer"
+            ],
+            "points": 4,
+            "time_limit": 10000,
+            "long_name": "Test 0 - compiles"
+        },
+        {
+            "name":"uses_first_member",
+            "cmds": [
+                "make -C tests RTEST_SRC_DIR=../../submission run/uses_first_member"
+            ],
+            "points": 2,
+            "time_limit": 10000,
+            "long_name": "Test 1 - uses_first_struct_member"
+        },
+        {
+            "name":"uses_second_member",
+            "cmds": [
+                "make -C tests RTEST_SRC_DIR=../../submission run/uses_second_member"
+            ],
+            "points": 2,
+            "time_limit": 10000,
+            "long_name": "Test 2 - uses_second_struct_member"
+        },
+        {
+            "name":"iterates",
+            "cmds": [
+                "make -C tests RTEST_SRC_DIR=../../submission run/iterates"
+            ],
+            "points": 3,
+            "time_limit": 10000,
+            "long_name": "Test 3 - correctly_iterates_array"
+        },
+        {
+            "name":"answer",
+            "cmds": [
+                "make -C tests RTEST_SRC_DIR=../../submission run/answer"
+            ],
+            "points": 5,
+            "time_limit": 10000,
+            "long_name": "Test 4 - correct_answer"
+        }
+    ]
+}

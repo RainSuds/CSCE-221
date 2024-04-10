@@ -1,0 +1,40 @@
+There are a couple things that should be discussed, but the most important thing is make commands.
+
+Commands for running locally:
+ make -C tests run-all           - Run all tests (stops when a test fails)
+ make -C tests run-all -k        - Run all tests (runs all tests, even if some fail)
+ make -C tests run/<test_name>   - Run a specific test_name
+    * Replace <test_name> with the name of the test case in the tests/tests folder
+      without the .cpp
+
+
+For simplicity and your convenience, assume the following definition for ListNode:
+
+    struct ListNode {
+        private:
+            int __val;
+            ListNode* __next;
+
+        public:
+            ListNode(int v = 0, ListNode* n = nullptr): __val(v), __next(n) {}
+
+            int val() { return __val; }
+            ListNode*& next() { return __next; }
+    };
+
+NOTE: The data members are private, so you MUST use the public getter functions
+to access and manipulate the data in the nodes. Also, the return type for next()
+is a reference, meaning that the returned value is an alias for the __next data
+member.
+
+ex)
+    ListNode* node;
+    node->next() = ...
+
+This will work for changing the value of the __next data member, and can also be
+used for simply retrieving the value of __next.
+
+The actual files have different definitions, but this is once again for giving partial credit for
+correct program behavior. As such, certain features have been put into place so that you can use
+ListNode as if it had the above definition (Looking into the actual files will likely be more
+confusing then just using the above definition).
