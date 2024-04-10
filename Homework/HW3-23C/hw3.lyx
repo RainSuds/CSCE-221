@@ -1,0 +1,1162 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\use_default_options false
+\maintain_unincluded_children false
+\language english
+\language_package none
+\inputencoding auto
+\fontencoding default
+\font_roman "cmr" "default"
+\font_sans "cmss" "default"
+\font_typewriter "courier" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 11
+\spacing single
+\use_hyperref true
+\pdf_bookmarks false
+\pdf_bookmarksnumbered false
+\pdf_bookmarksopen false
+\pdf_bookmarksopenlevel 1
+\pdf_breaklinks false
+\pdf_pdfborder false
+\pdf_colorlinks true
+\pdf_backref section
+\pdf_pdfusetitle false
+\pdf_quoted_options "linkcolor=blue,urlcolor=blue,filecolor=blue,"
+\papersize default
+\use_geometry true
+\use_package amsmath 2
+\use_package amssymb 0
+\use_package cancel 0
+\use_package esint 1
+\use_package mathdots 0
+\use_package mathtools 0
+\use_package mhchem 0
+\use_package stackrel 0
+\use_package stmaryrd 0
+\use_package undertilde 0
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\justification true
+\use_refstyle 0
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 1in
+\topmargin 1in
+\rightmargin 1in
+\bottommargin 1in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+\align center
+
+\series bold
+\size larger
+CSCE 221 Cover Page
+\series default
+\size default
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Please list all sources in the table below including web pages which you
+ used to solve or implement the current homework.
+ If you fail to cite sources you can get a lower number of points or even
+ zero, read more Aggie Honor System Office 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+https://aggiehonor.tamu.edu/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+
+\size large
+\begin_inset Tabular
+<lyxtabular version="3" rows="3" columns="2">
+<features tabularvalignment="middle">
+<column alignment="left" valignment="top" width="20line%">
+<column alignment="none" valignment="top" width="45line%">
+<row topspace="default" bottomspace="default">
+<cell alignment="left" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size large
+Name
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="none" valignment="top" topline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size large
+Your Name
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row topspace="default" bottomspace="default">
+<cell alignment="left" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size large
+UIN
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="none" valignment="top" topline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size large
+123456789
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row topspace="default" bottomspace="default">
+<cell alignment="left" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size large
+Email address
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="none" valignment="top" topline="true" bottomline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size large
+you@tamu.edu
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\size default
+ 
+\end_layout
+
+\begin_layout Standard
+Cite your sources using the table below.
+ Interactions with TAs and resources presented in lecture do not have to
+ be cited.
+ 
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+
+\size large
+\begin_inset Tabular
+<lyxtabular version="3" rows="4" columns="2">
+<features tabularvalignment="middle">
+<column alignment="left" valignment="top" width="0pt" special=">{\centering\arraybackslash}m{0.25\linewidth}">
+<column alignment="left" valignment="middle" width="70text%">
+<row topspace="default" bottomspace="default">
+<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size large
+People
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Enumerate
+
+\size large
+None
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row topspace="default" bottomspace="default">
+<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size large
+Webpages
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Enumerate
+
+\size large
+None
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row topspace="default" bottomspace="default">
+<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size large
+Printed Materials
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Enumerate
+
+\size large
+None
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row topspace="default" bottomspace="default">
+<cell alignment="left" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size large
+Other Sources
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Enumerate
+
+\size large
+None
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\size default
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+\size giant
+Homework 3
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\series bold
+\size larger
+See the Canvas calendar for the deadline
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Typeset your solutions to the homework problems preferably in \SpecialChar LaTeX
+ or LyX.
+ See the class webpage for information about their installation and tutorials.
+ There are 6 problems on 6 separate pages.
+\end_layout
+
+\begin_layout Enumerate
+(10 points) An airport is developing a computer simulation of air-traffic
+ control that handles events such as landings and takeoffs.
+ Each event has a 
+\emph on
+time-stamp
+\emph default
+ that denotes the time when the event occurs.
+ The simulation program needs to efficiently perform the following two fundament
+al operations: 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Insert an event with a given time-stamp (that is, add a future event) 
+\end_layout
+
+\begin_layout Itemize
+Extract the event with a smallest time-stamp (that is, determine the next
+ event to process) 
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+\begin_inset VSpace defskip
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+What data structure should be used to implement the above operations efficiently
+? Explain your reasoning.
+ 
+\begin_inset CommandInset label
+LatexCommand label
+name "enum:id_datastruct"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+Provide the big-O asymptotic complexity of inserting a time-stamp into the
+ data structure identified in part 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "enum:id_datastruct"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+Provide the big-O asymptotic complexity of extracting a time-stamp from
+ the data structure identified in part 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "enum:id_datastruct"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+(15 points) A 
+\emph on
+complete
+\emph default
+ graph is an undirected graph in which every pair of vertices are connected
+ with an edge.
+ Consider the following complete graph with 
+\begin_inset Formula $n=6$
+\end_inset
+
+ vertices.
+ 
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename complete_graph.png
+	lyxscale 60
+	width 60text%
+
+\end_inset
+
+ 
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+A complete graph with 
+\begin_inset Formula $n=6$
+\end_inset
+
+ vertices
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:my_label"
+
+\end_inset
+
+ 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+In what order does 
+\family typewriter
+DFS
+\family default
+ explore vertices in the above graph? Assume 
+\family typewriter
+DFS
+\family default
+ starts at vertex 4.
+ The adjacency lists are in ascending order by the numeric label.
+ 
+\end_layout
+
+\begin_layout Enumerate
+What is the running time of 
+\family typewriter
+DFS
+\family default
+ on a complete graph with 
+\begin_inset Formula $n$
+\end_inset
+
+ vertices? Provide an asymptotic big-oh bound in terms of the number of
+ vertices.
+ Explain your reasoning.
+ 
+\end_layout
+
+\begin_layout Enumerate
+How many back edges, forward edges, cross edges, and exploratory edges are
+ generated by running 
+\family typewriter
+DFS
+\family default
+ on a complete graph with 
+\begin_inset Formula $n$
+\end_inset
+
+ vertices? 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+(10 points) Answer each of the following questions with a tight big-O asymptotic
+ bound.
+ Justify with algorithmic reasoning.
+ 
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+A priority queue, 
+\family typewriter
+UnsortedMPQ
+\family default
+, is implemented based on an unsorted array.
+ What is the running time of the operation which retrieves the minimum value?
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+\align center
+
+\family typewriter
+unsorted_min(n)
+\begin_inset Formula $\in O(\ldots)$
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Dijkstra's algorithm is implemented based on this unsorted minimum priority
+ queue.
+ What is the running time of this implementation of Dijkstra's algorithm?
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+\align center
+
+\family typewriter
+dijkstra(V,E)
+\begin_inset Formula $\in O(\dots)$
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+(15 points) Find the shortest path from D to all other vertices for the
+ graph below.
+ 
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename dijkstras_graph.png
+	lyxscale 50
+	scale 30
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+Illustrate the minimum priority queue at each iteration Dijkstra's algorithm.
+\end_layout
+
+\begin_layout Enumerate
+Draw the Shortest Path Tree.
+\end_layout
+
+\begin_layout Enumerate
+What is the running time of the Dijkstra's algorithm under the assumption
+ that the graph is implemented based on an adjacency list and the minimum
+ priority queue is implemented based on a binary heap?
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+(15 points) Find the shortest path from vertex 3 to all other vertices for
+ the graph below.
+ 
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename undirected.png
+	lyxscale 80
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+Which graph algorithm can solve the problem most 
+\emph on
+efficiently
+\emph default
+?
+\end_layout
+
+\begin_layout Enumerate
+How could you use the same algorithm if the graph had edge weights? (
+\shape italic
+Hint
+\shape default
+: You may want to create intermediate nodes.)
+\end_layout
+
+\begin_layout Enumerate
+Draw the Shortest Path Tree.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+(15 points) There are five small islands in a lake, and the state wants
+ to build four bridges to connect them so that each island can be reached
+ from any other one via one or more bridges.
+ The cost of bridge construction is proportional to its length.
+ The distance between pairs of islands are given in the following table.
+ 
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+\begin_inset Float table
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Tabular
+<lyxtabular version="3" rows="6" columns="6">
+<features tabularvalignment="middle">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+1 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+2 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+3 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+4 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+5 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+1 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+- 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+10 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+15 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+10 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+20 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+2 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+- 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+- 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+15 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+20 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+20 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+3 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+- 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+- 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+- 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+15 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+30 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+4 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+- 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+- 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+- 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+- 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+10 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+5 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+- 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+- 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+- 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+- 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+- 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+The distance between any two islands
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "tab:islands_graph"
+
+\end_inset
+
+ 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename island_graph_distances.png
+	lyxscale 80
+	scale 80
+
+\end_inset
+
+
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+The distance between any two islands
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:islands_graph"
+
+\end_inset
+
+ 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+Illustrate the steps of Prim's algorithm using the graph above.
+ Draw the Minimum Spanning Tree.
+ What is the length of the bridges?
+\end_layout
+
+\begin_layout Enumerate
+Illustrate the steps of Kruskal's algorithm using the graph above.
+ Draw the Minimum Spanning Tree.
+ What is the length of the bridges?
+\end_layout
+
+\end_deeper
+\end_body
+\end_document
